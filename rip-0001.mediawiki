@@ -102,7 +102,7 @@ Each RIP must begin with an RFC 822 style header preamble. The headers must appe
            Withdrawn | Final | Superseded>
   Type: <Standards Track | Informational | Process>
   Created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
-* Post-History: <dates of postings to bitcoin mailing list>
+* Post-History: <dates of postings to ravencoin forum>
 * Replaces: <RIP number>
 * Superseded-By: <RIP number>
 * Resolution: <url>
@@ -122,11 +122,11 @@ If there are multiple authors, each should be on a separate line following RFC 2
 
 Note: The Resolution header is required for Standards Track RIPs only. It contains a URL that should point to an email message or other web resource where the pronouncement about the RIP is made.
 
-While a RIP is in private discussions (usually during the initial Draft phase), a Discussions-To header will indicate the mailing list or URL where the RIP is being discussed. No Discussions-To header is necessary if the RIP is being discussed privately with the author, or on the bitcoin email mailing lists.
+While a RIP is in private discussions (usually during the initial Draft phase), a Discussions-To header will indicate the mailing list or URL where the RIP is being discussed. No Discussions-To header is necessary if the RIP is being discussed privately with the author, or on the ravencoin forum.
 
 The Type header specifies the type of RIP: Standards Track, Informational, or Process.
 
-The Created header records the date that the RIP was assigned a number, while Post-History is used to record the dates of when new versions of the RIP are posted to bitcoin mailing lists. Both headers should be in yyyy-mm-dd format, e.g. 2001-08-14.
+The Created header records the date that the RIP was assigned a number, while Post-History is used to record the dates of when new versions of the RIP are posted to ravencoin forum. Both headers should be in yyyy-mm-dd format, e.g. 2001-08-14.
 
 RIPs may have a Requires header, indicating the RIP numbers that this RIP depends on.
 
