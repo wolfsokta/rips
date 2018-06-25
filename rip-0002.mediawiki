@@ -1,0 +1,26 @@
+<pre>
+  RIP: 2
+  Title: Assets
+  Author: Tron Black
+  Comments-Summary: No comments yet.
+  Comments-URI: https://github.com/RavenProject/rips
+  Status: Active
+  Type: Process
+  Created: 2018-06-25
+</pre>
+
+==Assets==
+
+Add assets as outlined in roadmap.
+https://github.com/RavenProject/Ravencoin/tree/master/roadmap
+
+==Testnet Activation==
+
+Activate on testnet using RIP activation framework at 65%.
+
+==Mainnet Activation==
+
+Activate on mainnet using RIP activation framework at 80%.
+
+
+
