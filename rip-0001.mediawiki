@@ -3,7 +3,7 @@
   Title: RIP Purpose and Guidelines
   Author: Tron Black
   Comments-Summary: No comments yet.
-  Comments-URI: https://github.com/ravenwallet/rips
+  Comments-URI: https://github.com/RavenProject/rips
   Status: Final
   Type: Process
   Created: 2018-06-13
