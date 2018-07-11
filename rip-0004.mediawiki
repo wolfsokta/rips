@@ -1,0 +1,17 @@
+<pre>
+  RIP: 4
+  Title: Unique Assets
+  Author: Tron Black
+  Comments-Summary: No comments yet.
+  Comments-URI: https://github.com/RavenProject/rips
+  Status: Active
+  Type: Process
+  Created: 2018-07-11
+</pre>
+
+==Assets==
+
+Add unique assets as outlined in roadmap.
+https://github.com/RavenProject/Ravencoin/tree/master/roadmap
+
+Activate at a specific block number - TBD.

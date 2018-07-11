@@ -1,0 +1,17 @@
+<pre>
+  RIP: 3
+  Title: Rewards
+  Author: Tron Black
+  Comments-Summary: No comments yet.
+  Comments-URI: https://github.com/RavenProject/rips
+  Status: Active
+  Type: Process
+  Created: 2018-07-11
+</pre>
+
+==Assets==
+
+Add rewards as outlined in roadmap.
+https://github.com/RavenProject/Ravencoin/tree/master/roadmap
+
+Activate at a specific block number - TBD.
