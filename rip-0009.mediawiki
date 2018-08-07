@@ -1,0 +1,16 @@
+<pre>
+  RIP: 9
+  Title: 
+  Author: Tron Black
+  Comments-Summary: No comments yet.
+  Comments-URI: https://github.com/RavenProject/rips
+  Status: Active
+  Type: Process
+  Created: 2018-08-07
+</pre>
+
+==DGW Activation==
+
+Activation of Dark Gravity Wave (version 3) with a 3 hour window to prevent difficulty oscillations caused by multipool adding and removing hashpower on difficulty swings.
+
+This will be activated by the BIP9 activation process which consists of a start time, end of 2016 block cycle, voting cycle(s), lock-in, and activation. 
