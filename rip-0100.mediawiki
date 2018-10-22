@@ -1,0 +1,25 @@
+<pre>
+  RIP: 100
+  Title: Branding
+  Author: Many Contributors
+  Comments-Summary: No comments yet.
+  Comments-URI: https://github.com/RavenProject/rips
+  Status: Active
+  Type: Process
+  Created: 2018-10-22
+</pre>
+
+==Branding==
+
+Improve branding.  
+
+Many contributors and informal voting and contributions can be made here.  
+
+We've decided to keep the Ravencoin name for SEO reasons, and that switching to just Raven will cause the project to get lost in the myriad of references to Raven's that came before this project.  
+
+The graphics, icons, look, feel, etc. can be an ongoing improvment process with a goal of keeping a consistent brand across the six platforms (Windows, Linux, Mac, iOS, Android, Web).  
+
+This RIP will act as a hub and repository for recommendations, but not a sole source, as we expect conversations to take place on Telegram, Discord, and other forms.  
+
+For this particular Raven Improvement Proposal, feel free to contribute your ideas in the form of pull requests.  
+
