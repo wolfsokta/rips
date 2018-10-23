@@ -6,7 +6,7 @@ Use the design template to show how the branding fits into the wider crypto ecos
 
 ### Sample From Template
 
-<img src="designtemplate/_LogoPresentationEXAMPLE.png"
+<img src="designtemplate/__LogoPresentationEXAMPLE.png"
      alt="Sample from design template"
      style="float: left; margin-right: 10px;" />
      
