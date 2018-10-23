@@ -1,4 +1,4 @@
-#Branding
+# Branding
 
 Please contribute to our efforts to make Ravencoin the best asset open source asset platform.  
 
